@@ -17,8 +17,8 @@ The model is trained to classify news articles into 4 categories:
 
 Clone the repo and install dependencies:
 
-git clone https://github.com/DelfinaHasani/ai-challenge.git
-cd ai-challenge
+git clone https://github.com/DelfinaHasani/AI-Challenge
+
 pip install -r requirements.txt
 
 🚀 Run the API
